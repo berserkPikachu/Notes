@@ -1,4 +1,3 @@
-
 # Neovim
 
 rm -r $Env:USERPROFILE\AppData\Local\nvim
